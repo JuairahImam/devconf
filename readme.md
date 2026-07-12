@@ -63,20 +63,6 @@ AI was used only for brainstorming and designing this section, following the ass
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/devconf-2026.git
-```
-
-2. Open the project folder.
-
-3. Run `index.html` in your browser.
-
----
-
 ## 👨‍💻 Author
 
 **JuairahImam**
