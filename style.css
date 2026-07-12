@@ -255,3 +255,51 @@ body {
 .featured button:hover {
   background: #f3f4f6;
 }
+.footer {
+  background: #111827;
+  color: white;
+  padding: 50px 80px 25px;
+}
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+.footer-logo {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.social-links {
+  display: flex;
+  gap: 20px;
+}
+.social-links a {
+  width: 45px;
+  height: 45;
+  background: #1f2937;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+}
+.social-links a:hover {
+  background: #00d4ff;
+}
+.social-links img {
+  width: 22px;
+  height: 22px;
+}
+.footer hr {
+  border: none;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.15);
+  margin-bottom: 25px;
+}
+.copyright {
+  text-align: center;
+  color: #9ca3af;
+  font-size: 15px;
+}
