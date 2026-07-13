@@ -4,7 +4,7 @@ A modern and responsive landing page for **DEVCONF 2026**, built using only **HT
 
 ## 🌐 Live Demo
 
-- **Live Site:** https://devconf-eight.vercel.app/
+- **Live Site:** https://juairahimam.github.io/devconf/
 - **Repository:** https://github.com/JuairahImam/devconf
 
 ---
